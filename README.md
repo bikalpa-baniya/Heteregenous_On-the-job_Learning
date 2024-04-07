@@ -1,5 +1,5 @@
 # Heteregenous_On-the-job_Learning
-(Ongoing) How does cognitive and interpersonal skills grow when on-the-job learning is heterogeneous?
+How does cognitive and interpersonal skills grow when on-the-job learning is heterogeneous?
 
 
 Lise and Postel-Vinay (2020) find that in the presence of skill mismatch, cognitive skills adjust slowly and interpersonal skills do not adjust at all. However, they stimulate the learning process by assuming on-the-job learning along these dimension happens exponentially.
